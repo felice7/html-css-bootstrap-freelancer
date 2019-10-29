@@ -1,0 +1,152 @@
+
+nav {
+    background-color: #2C3E50;
+}
+
+#home {
+    background-color: #1ABC9C;
+}
+
+.menu .col-lg-6 {
+    background-color: #2C3E50;
+    height: 100px;
+    line-height: 100px;
+    
+}
+
+.menu .col-lg-6 h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.nav-link a {
+    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 16px;
+    padding: 20px;    
+}
+
+ .nav-link a:hover {
+    
+    color: #1ABC9C;
+    text-decoration: none;
+}
+
+.jumbotron {
+    
+    height: 780px;
+    background-color: #1ABC9C;
+    position: relative;
+    
+}
+
+.jumbotron h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 60px;
+}
+
+#foto {
+    max-width: 250px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.linea  {
+    position: relative;
+    width: 150px;
+    border-width: 5px;
+    border-color: white;
+    display: inline-block;    
+    
+} 
+.col-lg-12 i {
+    font-size: 40px;
+    padding: 25px;
+    color: white;
+}
+
+.col-lg-12 .testo {
+    font-size: 25px;
+    margin-top: 20px;
+    color: white;
+}
+
+#portfolio {
+    background-color: white;
+    height: 900px;
+}
+
+
+.portfolio-pages h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #2C3E50;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+
+.linea-blu  {
+    
+    position: relative;
+    width: 150px;
+    border-width: 5px;
+    border-color: #2C3E50;
+    display: inline-block;    
+    
+}
+
+.portfolio-pages i {
+    font-size: 40px;
+    padding: 25px;
+    color: #2C3E50;
+
+}
+
+ .portfolio-item img {
+     width: 350px;
+     margin: 20px;
+     border-radius: 10px;
+ }
+ 
+#primary {
+    
+    background-color: #1ABC9C;
+    height: 700px;
+}
+
+.primary-pages h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: white;
+    font-size: 50px;
+    margin-top: 100px;
+}
+
+.primary-text {
+    color: white;
+    
+    font-size: 14px;
+}
+
+
+.primary-pages .col-lg-3 p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: hidden;
+    font-size: 25px;
+    padding: 20px;
+    margin-top: 30px;
+}
